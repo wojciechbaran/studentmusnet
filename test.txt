@@ -1,7 +1,7 @@
 xc
 
 tz ; check autoryzation
-gbvnvbn
+set email an name
 
 qwertyuiop
 
