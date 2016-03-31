@@ -1,7 +1,8 @@
 fff ffdgfdfgd
 
 
-gbvnvbn
+tz ; check autoryzation
+set email an name
 
 qwertyuiop
 
@@ -9,3 +10,7 @@ qwertyuiop
 tzkkrak: 03-18-2017 changed
 
 secondp-change
+ddd
+
+tz: another attempt to push changlo on master
+tz: another attempt
