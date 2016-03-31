@@ -1,4 +1,5 @@
-xc
+fff ffdgfdfgd
+
 
 tz ; check autoryzation
 set email an name
@@ -7,10 +8,9 @@ qwertyuiop
 
 
 tzkkrak: 03-18-2017 changed
+
+secondp-change
 ddd
 
 tz: another attempt to push changlo on master
 tz: another attempt
-
-
-tz : add database examle
